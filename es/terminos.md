@@ -1,0 +1,96 @@
+# Términos y condiciones · Entrenador de escalada
+
+> PENDIENTE DE REVISIÓN LEGAL — borrador no aprobado.
+
+Estos términos regulan el uso de la aplicación «Entrenador de escalada» (en adelante, «la app»). Al instalarla y usarla aceptas estos términos, la [política de privacidad](privacidad.md) y el [aviso no clínico](aviso-no-clinico.md). Si no estás de acuerdo con alguno de ellos, no uses la app.
+
+## 1. Quién ofrece la app
+
+La app la publica **Alma del Sur Ediciones**, editor de la colección de libros de entrenamiento de escalada de la que la app forma parte.
+
+Contacto: **cristiancastroponce@gmail.com**.
+
+## 2. Edad mínima
+
+Para usar la app debes tener **16 años o más**. Si tienes menos de 16 años, no la instales ni la uses.
+
+## 3. Qué es la app
+
+La app es una herramienta de registro y organización del entrenamiento de escalada: te propone sesiones a partir de los programas del libro, te ayuda a registrar lo que haces, calcula la carga y la monotonía de tu semana, guarda tus resultados de tests y te muestra avisos basados en reglas fijas tomadas del libro. Todo el contenido de entrenamiento proviene del libro *Escalar más fuerte* (Libro 1, «Fundamentos») y del diario de entrenamiento de la misma colección.
+
+La app **no es un entrenador personal, ni un servicio médico, ni un profesional sanitario**, y no sustituye a ninguno de ellos.
+
+## 4. Licencia de uso
+
+Alma del Sur Ediciones te concede una licencia **personal, no exclusiva, intransferible y revocable** para instalar y usar la app en dispositivos Android de tu propiedad o bajo tu control, con fines **personales y no comerciales**.
+
+En particular, no puedes:
+
+- usar la app para prestar servicios de entrenamiento a terceros a cambio de dinero, ni integrarla en una oferta comercial;
+- copiar, modificar, descompilar, desensamblar o hacer ingeniería inversa de la app, salvo en la medida en que la ley lo permita expresamente;
+- extraer, reproducir o redistribuir el contenido de entrenamiento de la app (programas, catálogo de ejercicios, tests, textos de la Guía y mensajes del entrenador) fuera de tu uso personal;
+- eliminar o alterar los avisos de autoría, los avisos legales o los anuncios que muestra la app;
+- usar la app de forma que infrinja la ley o los derechos de otras personas.
+
+La licencia termina si incumples estos términos o si desinstalas la app.
+
+## 5. La app no es un servicio médico
+
+La app no diagnostica, no trata y no previene ninguna enfermedad ni lesión, y no sustituye la valoración de un profesional sanitario. Los avisos que te da, incluidas las señales de parada y los criterios de consulta, son recordatorios de lo que dice el libro para que decidas tú si sigues entrenando o pides cita. Léelos en el [aviso no clínico](aviso-no-clinico.md), que forma parte de estos términos.
+
+Si tienes una lesión, una enfermedad, estás embarazada o tienes cualquier duda sobre si puedes entrenar, consulta a un profesional sanitario antes de usar la app.
+
+## 6. Sin garantía de resultados deportivos
+
+El entrenamiento de escalada tiene resultados que dependen de muchos factores que la app no controla: tu punto de partida, tu descanso, tu técnica, tu salud y el tiempo que dedicas. Por eso la app **no garantiza ningún resultado deportivo**: ni subir de grado, ni mejorar en un test, ni evitar lesiones. Los programas y las cifras que contiene son un punto de partida ajustable, tomado del libro, y no una promesa.
+
+## 7. Propiedad intelectual
+
+La app, su diseño, su código y todo su contenido de entrenamiento (programas, catálogo de ejercicios, tests, textos de la Guía, mensajes del entrenador, ilustraciones e iconos) son propiedad de **Alma del Sur Ediciones** o se usan con licencia de sus titulares, y están protegidos por la legislación de propiedad intelectual aplicable. El contenido de entrenamiento está basado en el libro *Escalar más fuerte* (Libro 1, «Fundamentos») y en el diario de entrenamiento de la colección, también de Alma del Sur Ediciones.
+
+Los datos que tú introduces en la app (tu perfil, tus sesiones, tus notas, tus resultados) son tuyos. La app no adquiere ningún derecho sobre ellos y, como se explica en la política de privacidad, no salen de tu dispositivo.
+
+Las marcas y nombres de terceros que aparezcan en la app (por ejemplo, Google, Android o AdMob) pertenecen a sus titulares.
+
+## 8. Publicidad y suscripción futura
+
+La versión actual de la app es gratuita y se financia con **anuncios** servidos por Google AdMob. Los anuncios aparecen solo en algunas pantallas y nunca durante una sesión con el temporizador en marcha, en el asistente inicial ni en las pantallas legales. Cómo se gestiona tu consentimiento publicitario se explica en la política de privacidad.
+
+Alma del Sur Ediciones puede ofrecer en el futuro una **suscripción de pago** que retire los anuncios u ofrezca funciones adicionales. Cuando exista, los términos de pago, renovación y cancelación se añadirán a este documento antes de que puedas contratarla, y se te pedirá aceptarlos expresamente. Mientras no exista, ningún apartado de estos términos te obliga a pagar nada.
+
+## 9. Tus datos
+
+Todo lo relativo a qué datos guarda la app, dónde y cómo puedes exportarlos o borrarlos está en la [política de privacidad](privacidad.md). Recuerda que la copia de seguridad que exportas es un archivo bajo tu control y que borrar tus datos desde Ajustes o desinstalar la app los elimina del dispositivo de forma irreversible.
+
+## 10. Limitación de responsabilidad
+
+Escalar y entrenar para escalar son actividades con **riesgo de lesión**. Al usar la app aceptas que ese riesgo es tuyo y que la decisión de hacer o no un ejercicio, con qué carga y en qué estado físico, la tomas tú.
+
+En la medida en que la legislación chilena aplicable lo permita:
+
+- Alma del Sur Ediciones no responde por lesiones, daños a la salud, daños materiales ni pérdidas derivados del uso de la app, de seguir sus propuestas de entrenamiento o de no atender sus avisos;
+- la app se ofrece «tal cual» y «según disponibilidad», sin garantía de que esté libre de errores o de que funcione sin interrupciones en todos los dispositivos;
+- Alma del Sur Ediciones no responde por la pérdida de datos causada por fallos del dispositivo, por la desinstalación, por el borrado que tú ordenes o por el mal uso de los archivos de copia de seguridad; exporta una copia con regularidad.
+
+Nada en estos términos limita los derechos que la ley te reconoce como consumidor y que no puedan renunciarse ni limitarse por contrato.
+
+## 11. Suspensión y fin del servicio
+
+Alma del Sur Ediciones puede actualizar, modificar, suspender o retirar la app, en su totalidad o en parte, en cualquier momento. Si la app deja de distribuirse, tus datos seguirán en tu dispositivo mientras la conserves instalada y podrás exportarlos como archivo. Alma del Sur Ediciones también puede dar por terminada tu licencia si incumples estos términos.
+
+## 12. Cambios en estos términos
+
+Podemos modificar estos términos cuando cambie la app o la legislación. Cada versión lleva un número y una fecha al final del documento. Si los cambios son relevantes, la app te lo indicará al abrirla y te pedirá que los aceptes de nuevo. Seguir usando la app después de un cambio implica que aceptas la versión vigente.
+
+## 13. Ley aplicable y fuero
+
+Estos términos se rigen por la **legislación de la República de Chile**. Para cualquier controversia derivada de ellos, las partes se someten a los tribunales competentes de Chile, sin perjuicio de los derechos que la legislación de protección al consumidor te reconozca en tu lugar de residencia y que no puedan excluirse por contrato.
+
+## 14. Contacto
+
+Alma del Sur Ediciones
+Correo: **cristiancastroponce@gmail.com**
+
+---
+
+Versión 0.1 · 24 de septiembre de 2026
