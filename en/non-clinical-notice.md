@@ -39,30 +39,41 @@ None of them requires a prior diagnosis from you: they are observations you can 
 
 The app reminds you of these signals and puts them in front of you when it matters:
 
-- When you close each session you can tick the stop signals you noticed. If you tick sharp pain or a pop in a finger, the app closes that day's finger work and does not schedule finger loading for the following 48 hours.
+- When you close each session you can tick the stop signals you noticed. If you tick sharp pain or a pop in a finger, the app reminds you not to load your fingers for 48 h (Today shows a “Stop” alert); it does not change the plan by itself.
 - If a niggle you have recorded is still there after more than three days, the app suggests you consult and opens the niggles and injuries log so that you can write it down.
 - The five referral criteria are shown in the app exactly as they appear in section 3, with none added or removed.
 
 These messages are reminders the app generates from what you record. They detect nothing by themselves, they do not assess your condition and they do not replace the rule in section 3: if a criterion is met, consult even if the app has not warned you.
 
-## 5. What you will not find in the app
+## 5. Maximum-effort tests
+
+Some tests in the app (peak force, RFD, critical force and the Inquisition) ask for maximal efforts or hangs to the limit. They carry more risk of injury than a normal training session. Before doing them:
+
+- Warm up your fingers, shoulders and elbows well.
+- Do them rested, not right after a hard session, and rest enough between attempts.
+- Build up the force gradually: do not yank.
+- Stop as soon as you feel sharp pain, a pop or a niggle that is not normal fatigue.
+- Do not do them if you have an injury or an unresolved niggle: consult a healthcare professional first.
+- If you use a dynamometer (for example, a Tindeq), check that the grip and the anchor are secure. The values the app shows are indicative: they are not a clinical or certified measurement.
+
+## 6. What you will not find in the app
 
 There is no self-treatment protocol here and no phased return progression. For pulley injury, flexor tenosynovitis, the adolescent's growth-plate injury or any other injury, management happens after a professional diagnosis and with clinical follow-up. Your role ends at recognising the signal, stopping loading and making an appointment. The first thing that is adjusted is the load, and it is also the first thing that is done in the clinic.
 
-The app also gives you no advice on diet or weight, and it does not store your weight or your body composition.
+The app also gives you no advice on diet or weight. If you record your weight, your body fat or your measurements, it is only so that you can see your own progress and work out your relative strength; they are not a goal or a recommendation.
 
-## 6. If you are under 18
+## 7. If you are under 18
 
 You can use the app from the age of 16. If you are under 18, pay attention to criterion 2 in section 3: any pain on the dorsal side of the middle joint of a finger is grounds for consulting before anything is decided about the load.
 
-## 7. In an emergency
+## 8. In an emergency
 
 In a medical emergency, go to the emergency services in your area. The app is not a healthcare channel and nobody supervises it in real time.
 
-## 8. Contact
+## 9. Contact
 
-If you have questions about this notice, write to Alma del Sur Ediciones: **cristiancastroponce@gmail.com**. We do not answer medical queries.
+If you have questions about this notice, write to Alma del Sur Ediciones: **vulcanoedicionessa@gmail.com**. We do not answer medical queries.
 
 ---
 
-Version 0.1 · 24 September 2026
+Version 0.2 · 9 October 2026

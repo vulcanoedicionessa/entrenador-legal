@@ -39,30 +39,41 @@ Ninguno te exige un diagnóstico previo: son observaciones que puedes hacer sin 
 
 La app te recuerda estas señales y te las pone delante cuando toca:
 
-- Al cerrar cada sesión puedes marcar las señales de parada que hayas notado. Si marcas dolor agudo o chasquido en un dedo, la app cierra el trabajo de dedos de ese día y no te programa carga de dedos en las 48 horas siguientes.
+- Al cerrar cada sesión puedes marcar las señales de parada que hayas notado. Si marcas dolor agudo o chasquido en un dedo, la app te recuerda no cargar los dedos durante 48 h (en Hoy verás el aviso «Frena»); no cambia el plan por sí sola.
 - Si una molestia que has registrado sigue ahí más de tres días, la app te propone consultar y te abre el registro de molestias y lesiones para que la anotes.
 - Los cinco criterios de consulta se muestran en la app tal cual están en el apartado 3, sin añadir ni quitar ninguno.
 
 Estos avisos son recordatorios que la app genera a partir de lo que tú registras. No detectan nada por sí mismos, no valoran tu estado y no sustituyen a la regla del apartado 3: si se cumple un criterio, consulta aunque la app no te haya avisado.
 
-## 5. Lo que no vas a encontrar en la app
+## 5. Pruebas de esfuerzo máximo
+
+Algunas pruebas de la app (fuerza pico, RFD, fuerza crítica y la Inquisición) te piden esfuerzos máximos o suspensiones hasta el límite. Tienen más riesgo de lesión que un entrenamiento normal. Antes de hacerlas:
+
+- Calienta bien los dedos, los hombros y los codos.
+- Hazlas descansado, no justo después de una sesión dura, y descansa lo suficiente entre intentos.
+- Sube la fuerza de forma progresiva: no des un tirón brusco.
+- Para en cuanto sientas dolor agudo, un chasquido o una molestia que no es la fatiga normal.
+- No las hagas si tienes una lesión o una molestia sin resolver: consulta antes a un profesional sanitario.
+- Si usas un dinamómetro (por ejemplo, un Tindeq), comprueba que el agarre y el anclaje están firmes. Los valores que muestra la app son orientativos: no son una medición clínica ni certificada.
+
+## 6. Lo que no vas a encontrar en la app
 
 Aquí no hay protocolo de autotratamiento ni progresión de vuelta por fases. Para la lesión de polea, la tenosinovitis de los flexores, la lesión perifisaria del adolescente o cualquier otra lesión, el manejo se hace después de un diagnóstico profesional y con seguimiento clínico. Tu papel termina en reconocer la señal, dejar de cargar y pedir cita. Lo primero que se ajusta es la carga, y es también lo primero que se hace en la consulta.
 
-La app tampoco te da consejos de dieta ni de peso, y no guarda tu peso ni tu composición corporal.
+La app tampoco te da consejos de dieta ni de peso. Si registras tu peso, tu grasa corporal o tus medidas, es solo para que veas tu propia evolución y calcules tu fuerza relativa; no son una meta ni una recomendación.
 
-## 6. Si tienes menos de 18 años
+## 7. Si tienes menos de 18 años
 
 Puedes usar la app a partir de los 16 años. Si tienes menos de 18, fíjate en el criterio 2 del apartado 3: cualquier dolor en la cara dorsal de la articulación media de un dedo es motivo de consulta antes de decidir nada sobre la carga.
 
-## 7. En caso de urgencia
+## 8. En caso de urgencia
 
 Ante una urgencia médica, acude a los servicios de urgencia de tu zona. La app no es un canal de atención sanitaria y nadie la supervisa en tiempo real.
 
-## 8. Contacto
+## 9. Contacto
 
-Si tienes dudas sobre este aviso, escribe a Alma del Sur Ediciones: **cristiancastroponce@gmail.com**. No respondemos consultas médicas.
+Si tienes dudas sobre este aviso, escribe a Alma del Sur Ediciones: **vulcanoedicionessa@gmail.com**. No respondemos consultas médicas.
 
 ---
 
-Versión 0.1 · 24 de septiembre de 2026
+Versión 0.2 · 9 de octubre de 2026

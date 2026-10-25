@@ -8,7 +8,7 @@ Estos términos regulan el uso de la aplicación «Entrenador de escalada» (en 
 
 La app la publica **Alma del Sur Ediciones**, editor de la colección de libros de entrenamiento de escalada de la que la app forma parte.
 
-Contacto: **cristiancastroponce@gmail.com**.
+Contacto: **vulcanoedicionessa@gmail.com**.
 
 ## 2. Edad mínima
 
@@ -16,9 +16,11 @@ Para usar la app debes tener **16 años o más**. Si tienes menos de 16 años, n
 
 ## 3. Qué es la app
 
-La app es una herramienta de registro y organización del entrenamiento de escalada: te propone sesiones a partir de los programas del libro, te ayuda a registrar lo que haces, calcula la carga y la monotonía de tu semana, guarda tus resultados de tests y te muestra avisos basados en reglas fijas tomadas del libro. Todo el contenido de entrenamiento proviene del libro *Escalar más fuerte* (Libro 1, «Fundamentos») y del diario de entrenamiento de la misma colección.
+La app es una herramienta de registro y organización del entrenamiento de escalada: te propone sesiones a partir de los programas del libro, te ayuda a registrar lo que haces, calcula la carga y la monotonía de tu semana, guarda tus resultados de tests, tu peso, tus medidas corporales y tus pruebas de fuerza, y te muestra avisos basados en reglas fijas tomadas del libro. Todo el contenido de entrenamiento proviene del libro *Escalar más fuerte* (Libro 1, «Fundamentos») y del diario de entrenamiento de la misma colección.
 
 La app **no es un entrenador personal, ni un servicio médico, ni un profesional sanitario**, y no sustituye a ninguno de ellos.
+
+La app puede conectarse, de forma opcional, a un dinamómetro Tindeq. Tindeq es un producto de un tercero sin relación con Alma del Sur Ediciones, que no responde de su funcionamiento. Los valores de fuerza, peso y medidas que muestra la app son orientativos, no una medición clínica.
 
 ## 4. Licencia de uso
 
@@ -38,6 +40,8 @@ La licencia termina si incumples estos términos o si desinstalas la app.
 
 La app no diagnostica, no trata y no previene ninguna enfermedad ni lesión, y no sustituye la valoración de un profesional sanitario. Los avisos que te da, incluidas las señales de parada y los criterios de consulta, son recordatorios de lo que dice el libro para que decidas tú si sigues entrenando o pides cita. Léelos en el [aviso no clínico](aviso-no-clinico.md), que forma parte de estos términos.
 
+Las pruebas de esfuerzo máximo tienen un riesgo adicional de lesión: lee las precauciones del apartado 5 del aviso no clínico antes de hacerlas.
+
 Si tienes una lesión, una enfermedad, estás embarazada o tienes cualquier duda sobre si puedes entrenar, consulta a un profesional sanitario antes de usar la app.
 
 ## 6. Sin garantía de resultados deportivos
@@ -50,7 +54,9 @@ La app, su diseño, su código y todo su contenido de entrenamiento (programas, 
 
 Los datos que tú introduces en la app (tu perfil, tus sesiones, tus notas, tus resultados) son tuyos. La app no adquiere ningún derecho sobre ellos y, como se explica en la política de privacidad, no salen de tu dispositivo.
 
-Las marcas y nombres de terceros que aparezcan en la app (por ejemplo, Google, Android o AdMob) pertenecen a sus titulares.
+Las marcas y nombres de terceros que aparezcan en la app (por ejemplo, Google, Android, AdMob o Tindeq) pertenecen a sus titulares.
+
+La app incluye componentes de código abierto y la tipografía Source Sans 3 (SIL Open Font License 1.1), que se rigen por sus propias licencias; las encuentras en el documento «Licencias».
 
 ## 8. Publicidad y suscripción futura
 
@@ -80,7 +86,7 @@ Alma del Sur Ediciones puede actualizar, modificar, suspender o retirar la app, 
 
 ## 12. Cambios en estos términos
 
-Podemos modificar estos términos cuando cambie la app o la legislación. Cada versión lleva un número y una fecha al final del documento. Si los cambios son relevantes, la app te lo indicará al abrirla y te pedirá que los aceptes de nuevo. Seguir usando la app después de un cambio implica que aceptas la versión vigente.
+Podemos modificar estos términos cuando cambie la app o la legislación. Cada versión lleva un número y una fecha al final del documento. Si los cambios son relevantes, lo indicaremos en las notas de la versión de la app en Google Play. Seguir usando la app después de un cambio implica que aceptas la versión vigente; si no estás de acuerdo con ella, deja de usarla.
 
 ## 13. Ley aplicable y fuero
 
@@ -89,8 +95,8 @@ Estos términos se rigen por la **legislación de la República de Chile**. Para
 ## 14. Contacto
 
 Alma del Sur Ediciones
-Correo: **cristiancastroponce@gmail.com**
+Correo: **vulcanoedicionessa@gmail.com**
 
 ---
 
-Versión 0.1 · 24 de septiembre de 2026
+Versión 0.3 · 25 de octubre de 2026

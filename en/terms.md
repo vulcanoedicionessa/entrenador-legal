@@ -8,7 +8,7 @@ These terms govern the use of the "Climbing Coach" application (hereafter, "the 
 
 The app is published by **Alma del Sur Ediciones**, publisher of the collection of climbing training books of which the app forms part.
 
-Contact: **cristiancastroponce@gmail.com**.
+Contact: **vulcanoedicionessa@gmail.com**.
 
 ## 2. Minimum age
 
@@ -16,9 +16,11 @@ To use the app you must be **16 or over**. If you are under 16, do not install o
 
 ## 3. What the app is
 
-The app is a tool for recording and organising your climbing training: it proposes sessions from the book's programmes, helps you record what you do, calculates your week's load and monotony, stores your test results and shows you messages based on fixed rules taken from the book. All the training content comes from the book *Climb Stronger* (Book 1, "Foundations") and from the training journal of the same collection.
+The app is a tool for recording and organising your climbing training: it proposes sessions from the book's programmes, helps you record what you do, calculates your week's load and monotony, stores your test results, your weight, your body measurements and your strength tests, and shows you messages based on fixed rules taken from the book. All the training content comes from the book *Climb Stronger* (Book 1, "Foundations") and from the training journal of the same collection.
 
 The app **is not a personal trainer, a medical service or a healthcare professional**, and it does not replace any of them.
+
+The app can optionally connect to a Tindeq dynamometer. Tindeq is a third-party product with no connection to Alma del Sur Ediciones, which is not responsible for how it works. The values for strength, weight and measurements that the app shows are indicative, not a clinical measurement.
 
 ## 4. Licence to use
 
@@ -38,6 +40,8 @@ The licence ends if you breach these terms or if you uninstall the app.
 
 The app does not diagnose, treat or prevent any illness or injury, and it does not replace assessment by a healthcare professional. The messages it gives you, including the stop signals and the referral criteria, are reminders of what the book says so that you decide whether to keep training or make an appointment. Read them in the [non-clinical notice](non-clinical-notice.md), which forms part of these terms.
 
+Maximum-effort tests carry an additional risk of injury: read the precautions in section 5 of the non-clinical notice before doing them.
+
 If you have an injury or an illness, are pregnant or have any doubt about whether you can train, consult a healthcare professional before using the app.
 
 ## 6. No guarantee of sporting results
@@ -50,7 +54,9 @@ The app, its design, its code and all its training content (programmes, exercise
 
 The data you enter in the app (your profile, your sessions, your notes, your results) is yours. The app acquires no rights over it and, as explained in the privacy policy, it does not leave your device.
 
-Third-party trade marks and names that appear in the app (for example Google, Android or AdMob) belong to their owners.
+Third-party trade marks and names that appear in the app (for example Google, Android, AdMob or Tindeq) belong to their owners.
+
+The app includes open-source components and the Source Sans 3 typeface (SIL Open Font License 1.1), which are governed by their own licences; you can find them in the "Licences" document.
 
 ## 8. Advertising and future subscription
 
@@ -80,7 +86,7 @@ Alma del Sur Ediciones may update, modify, suspend or withdraw the app, in whole
 
 ## 12. Changes to these terms
 
-We may modify these terms when the app or the legislation changes. Each version carries a number and a date at the end of the document. If the changes are significant, the app will tell you when you open it and will ask you to accept them again. Continuing to use the app after a change means that you accept the current version.
+We may modify these terms when the app or the legislation changes. Each version carries a number and a date at the end of the document. If the changes are significant, we will say so in the release notes of the app on Google Play. Continuing to use the app after a change means that you accept the current version.
 
 ## 13. Governing law and jurisdiction
 
@@ -89,8 +95,8 @@ These terms are governed by the **legislation of the Republic of Chile**. For an
 ## 14. Contact
 
 Alma del Sur Ediciones
-Email: **cristiancastroponce@gmail.com**
+Email: **vulcanoedicionessa@gmail.com**
 
 ---
 
-Version 0.1 · 24 September 2026
+Version 0.3 · 25 October 2026

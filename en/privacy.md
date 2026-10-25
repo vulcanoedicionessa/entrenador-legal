@@ -8,7 +8,7 @@ This policy explains what data the "Climbing Coach" application (hereafter, "the
 
 The party responsible for the processing of the data described in this policy is **Alma del Sur Ediciones**, publisher of the collection of climbing training books of which the app forms part.
 
-Contact: **cristiancastroponce@gmail.com**.
+Contact: **vulcanoedicionessa@gmail.com**.
 
 ## 2. The essentials in three sentences
 
@@ -20,7 +20,11 @@ Contact: **cristiancastroponce@gmail.com**.
 
 The app stores in your phone's internal memory what you enter yourself and what it calculates from it. In plain language, these are the groups of data:
 
-- **Your climbing profile**: the grade you climb onsight and the grade you send (on rope and in bouldering, in the scale you choose), the years you have been climbing, the days a week you can train, the niggles you already know about, your six-month goals and the language of the app. The app **does not ask for or store your weight, your body composition or any measurement of your body**.
+- **Your climbing profile**: the grade you climb onsight and the grade you send (on rope and in bouldering, in the scale you choose), the years you have been climbing, the days a week you can train, the niggles you already know about, your six-month goals and the language of the app.
+- **Your physical profile (optional)**: your weight, your body-fat percentage, your height, your gender and your date of birth, from which the app works out your age at each entry.
+- **Your body measurements (optional)**: the circumference of your shoulders, chest, biceps, triceps, forearms, back, lats, waist, glutes, thighs and calves, with the date of each measurement (and of other areas, if you recorded them in earlier versions).
+- **Your strength tests (optional)**: your maximum force and rate of force development (RFD) for each hand, the force curves if you measure with a Bluetooth dynamometer, the body weight you used in each measurement and your critical-force results.
+- **Your own Inquisition routines** and the results of each one.
 - **The programme you have chosen**: type of programme (bouldering, rope or combined), days a week, start date, current week and whether it is active or closed.
 - **Your sessions**: date, type of session, minutes, perceived exertion (RPE), the load calculated from both, the state of your fingers and skin, hours of sleep, energy, mood, the stop signals you tick, your notes and whether the session was done, skipped or is planned.
 - **The exercises you record** in each session: which exercise, sets, reps or time, edge or added weight, perceived exertion and whether you completed it.
@@ -29,19 +33,23 @@ The app stores in your phone's internal memory what you enter yourself and what 
 - **Your training blocks**: mesocycle, weeks, objective, priority quality, the variable you raise, the answers to the review and the adjustment decision.
 - **Your test results**: which test, at what point, date, the set-up you used, value and unit.
 - **Your niggles and injuries**: date, area, what happened, days off load, whether you consulted a professional, which referral criteria were met and how you returned.
-- **Your settings**: reminders (time and whether they are on), your decision on advertising consent, the state of your usage rights (for example, a future ad-free subscription) and the date of your last backup.
+- **Your settings**: reminders (time and whether they are on), the colour palette, units, the countdown and sound of the clocks, how "Time to measure" reminds you, your decision on advertising consent, the state of your usage rights (for example, a future ad-free subscription) and the date of your last backup.
 
 This data is used solely so that the app works: to show you what is on today, to calculate the week's load and monotony, to remind you of retests and to give you the coach's messages. No data on this list leaves your device through any action of the app, except when you yourself export a copy (section 6).
+
+Some of this data — your niggles and injuries, your weight and body composition, your measurements, your hours of sleep and your date of birth — is related to your health and the law treats it as sensitive data. For that reason the app does not make you record it, stores it only on your device and uses it solely to show you your own progress. By entering it yourself, you consent to the app storing it on your device for that purpose; you can delete it whenever you like (section 7).
 
 ## 4. What the app does not do
 
 - It does not create accounts and does not ask for your email, phone number or name.
 - It does not send your training data to any server belonging to Alma del Sur Ediciones or to third parties.
-- It does not access your location, your contacts, your camera, your microphone or your photos.
+- It does not use your location, your contacts, your camera, your microphone or your photos.
 - It does not use its own or third-party analytics tools to track how you use the app, beyond what the advertising network in section 5 collects.
 - It does not sell, rent or pass on your data.
 
-The only system permissions the app may ask you for are **notifications**, for the optional reminders, and keeping the **session timer** running in the background while you train. You can refuse or withdraw both in your Android settings without losing your data.
+The system permissions the app may ask you for are: **notifications**, for the optional reminders; keeping the **session timer** running in the background while you train; and **nearby devices (Bluetooth)**, only if you want to connect a Tindeq dynamometer to measure your strength. On Android 11 or earlier, the system also requires the location permission to scan for Bluetooth devices: the app uses it only for that scan and does not read or store your location. You can refuse or withdraw any of them in your Android settings without losing your data; without Bluetooth you can still enter your strength by hand. The app also vibrates the phone and keeps the processor from sleeping while a clock runs; neither of those collects any data.
+
+Tindeq is a third-party product and its manufacturer has no connection with this app. The data the device sends you is stored only on your phone, like everything else.
 
 ## 5. Advertising: what Google AdMob collects
 
@@ -60,7 +68,9 @@ Alma del Sur Ediciones does not receive that data and cannot link it to your tra
 
 **How to change or withdraw your decision.** At any time you can reopen the panel from **Settings**, in the advertising consent option, and change what you chose. You can also reset or delete the advertising identifier from the Google settings on your Android device.
 
-The app does not show adverts on the Today screen while the timer is running, in the initial set-up assistant or on these legal screens.
+The app asks Google for adverts with a content rating suitable, at most, for teenagers.
+
+Adverts appear as a banner on some screens (Home, Week, Block, Tests and Guide) and, at most once a day, as a full-screen advert when you close a session or a summary. The app does not show adverts on the Today screen while the timer is running, on the clocks, in the initial set-up assistant or on these legal screens.
 
 ## 6. Backups
 
@@ -68,11 +78,13 @@ The app does not show adverts on the Today screen while the timer is running, in
 
 **Android's automatic backup.** If you have Android backup turned on for your device, the system itself may store a copy of the app's data in the **Google account linked to your device** (a feature known as Android Auto Backup), alongside the backups of your other apps. That copy is managed by Google under its own terms and Alma del Sur Ediciones has no access to it. You can turn off Android backup in the system settings.
 
+Keep in mind that this copy and the file you export include everything you have recorded, also your health data, your weight and your measurements. The exported file is not encrypted: keep it somewhere safe.
+
 ## 7. How to delete your data
 
 You have two ways to delete everything:
 
-1. **Inside the app**: **Settings → Delete my data**. The app removes the profile, sessions, exercises, routes, summaries, blocks, tests, niggles and settings stored on the device. The operation cannot be undone, unless you exported a copy beforehand.
+1. **Inside the app**: **Settings → Delete my data**. The app removes the profile, your physical profile, body measurements, strength tests, sessions, exercises, routes, summaries, blocks, tests, niggles, your own routines and settings stored on the device. The operation cannot be undone, unless you exported a copy beforehand.
 2. **Uninstalling the app**: Android deletes the app's data along with it.
 
 Neither option deletes the copies you have exported as a file, nor, on its own, the automatic backup that Android may have stored in your Google account; you manage those from wherever you keep them and from Android's backup settings. Nor do they affect the data Google has collected for advertising, which is managed under the Google policy linked in section 5.
@@ -81,6 +93,8 @@ Neither option deletes the copies you have exported as a file, nor, on its own, 
 
 The app is intended for people aged **16 or over**. If you are under 16, do not use it and do not enter data in it. If you are a parent or guardian and believe a child under 16 is using it, write to the contact in section 12 and we will tell you how to remove the data from the device.
 
+The app does not verify age: by using it you declare that you are 16 or older.
+
 ## 9. Your rights
 
 Over the personal data that concerns you, on the terms laid down by the applicable Chilean legislation, you have the right to:
@@ -88,11 +102,12 @@ Over the personal data that concerns you, on the terms laid down by the applicab
 - **access** it and know what is stored;
 - **rectify** it if it is inaccurate or incomplete;
 - **erase** it;
+- **object** to its processing and ask for it to be temporarily **blocked**;
 - obtain a copy in a commonly used format (**portability**), to the extent that the law recognises it.
 
-Because your training data is only on your device, you exercise most of these rights yourself from the app: you can view and edit everything you record, export it to a file (section 6) and delete it completely (section 7). For any query or request you cannot resolve from the app, write to **cristiancastroponce@gmail.com** saying what you need; we will reply by the same means. For the data Google collects for advertising purposes, contact Google through the links in section 5.
+Because your training data is only on your device, you exercise most of these rights yourself from the app: you can view and edit everything you record, export it to a file (section 6) and delete it completely (section 7). For any query or request you cannot resolve from the app, write to **vulcanoedicionessa@gmail.com** saying what you need; we will reply by the same means, within a maximum of 30 calendar days. For the data Google collects for advertising purposes, contact Google through the links in section 5.
 
-If you consider that your rights have not been respected, you may approach the competent authority for personal data protection in Chile.
+If you consider that your rights have not been respected, you may approach the Chilean **Personal Data Protection Agency** or the competent authority under the legislation in force.
 
 ## 10. Governing law
 
@@ -100,13 +115,13 @@ This policy is governed by the applicable Chilean legislation on the protection 
 
 ## 11. Changes to this policy
 
-We may update this policy when the app or the legislation changes. Each version carries a number and a date at the end of the document. If the changes affect what data is collected or how it is used, the app will tell you when you open it. The current version is always available inside the app (Settings and Guide) and on the public legal documents page.
+We may update this policy when the app or the legislation changes. Each version carries a number and a date at the end of the document. If the changes affect what data is collected or how it is used, we will say so in the release notes of the app on Google Play. The current version is always available inside the app (Settings and Guide) and on the public legal documents page.
 
 ## 12. Contact
 
 Alma del Sur Ediciones
-Email: **cristiancastroponce@gmail.com**
+Email: **vulcanoedicionessa@gmail.com**
 
 ---
 
-Version 0.1 · 24 September 2026
+Version 0.3 · 25 October 2026
