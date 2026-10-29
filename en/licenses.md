@@ -12,7 +12,7 @@ The app uses third-party software and a typeface that are distributed under thei
 
 The app includes, among others, these components, published under the **Apache License, Version 2.0** (<https://www.apache.org/licenses/LICENSE-2.0>):
 
-- AndroidX and Jetpack Compose (interface, navigation, Room, DataStore, WorkManager, AppCompat and Activity), by Google.
+- AndroidX and Jetpack Compose (interface, navigation, Room, DataStore, WorkManager, AppCompat, Activity and Lifecycle), by Google.
 - Material Components for Android, by Google.
 - Dagger and Hilt, by Google.
 - Kotlin, kotlinx.coroutines and kotlinx.serialization, by JetBrains.
@@ -21,7 +21,7 @@ Unless required by applicable law or agreed to in writing, software under Apache
 
 ## Google services
 
-The adverts use the Google Mobile Ads SDK (AdMob) and Google's User Messaging Platform (UMP). They are not open source and are governed by Google's terms (<https://policies.google.com/terms>).
+The adverts use the Google Mobile Ads SDK (AdMob) and Google's User Messaging Platform (UMP). The subscription uses the Google Play Billing library, also from Google. They are not open source and are governed by Google's terms (<https://policies.google.com/terms>).
 
 ## Third-party trade marks
 
@@ -29,4 +29,4 @@ Google, Android, AdMob and Tindeq are trade marks of their respective owners. Th
 
 ---
 
-Version 0.1 · 9 October 2026
+Version 0.2 · 25 October 2026

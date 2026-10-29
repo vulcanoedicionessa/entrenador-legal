@@ -58,11 +58,26 @@ Las marcas y nombres de terceros que aparezcan en la app (por ejemplo, Google, A
 
 La app incluye componentes de código abierto y la tipografía Source Sans 3 (SIL Open Font License 1.1), que se rigen por sus propias licencias; las encuentras en el documento «Licencias».
 
-## 8. Publicidad y suscripción futura
+## 8. Publicidad y suscripción Premium
 
-La versión actual de la app es gratuita y se financia con **anuncios** servidos por Google AdMob. Los anuncios aparecen solo en algunas pantallas y nunca durante una sesión con el temporizador en marcha, en el asistente inicial ni en las pantallas legales. Cómo se gestiona tu consentimiento publicitario se explica en la política de privacidad.
+### Anuncios
 
-Alma del Sur Ediciones puede ofrecer en el futuro una **suscripción de pago** que retire los anuncios u ofrezca funciones adicionales. Cuando exista, los términos de pago, renovación y cancelación se añadirán a este documento antes de que puedas contratarla, y se te pedirá aceptarlos expresamente. Mientras no exista, ningún apartado de estos términos te obliga a pagar nada.
+La app se puede usar gratis y se financia con **anuncios** servidos por Google AdMob. Los anuncios aparecen solo en algunas pantallas y nunca durante una sesión con el temporizador en marcha, mientras corre un reloj, ni en el asistente inicial ni en las pantallas legales. Cómo se gestiona tu consentimiento publicitario y en qué pantallas aparecen se explica en la política de privacidad.
+
+### Suscripción Premium
+
+Alma del Sur Ediciones ofrece una **suscripción de pago** llamada **Premium**. Estas son sus condiciones:
+
+- **Qué incluye.** Premium quita los anuncios (y la ventana de oferta de la suscripción) y da acceso al **Entrenamiento guiado** y al **plan personalizado**. Siguen siendo gratis, con anuncios, los Tests, las Medidas, los Útiles, el Calendario y la Guía.
+- **Planes y precios.** Hay un plan **mensual** y un plan **anual**. El precio de cada plan, en tu moneda y con los impuestos que correspondan, es el que muestra Google Play antes de que confirmes la compra.
+- **Siete días gratis.** Si no has usado antes la prueba gratuita de esta suscripción, tu suscripción empieza con 7 días gratis. Si no cancelas antes de que terminen, Google Play empieza a cobrarte el plan que elegiste.
+- **Cobro y renovación automática.** El pago lo gestiona Google Play con el medio de pago de tu cuenta de Google. La suscripción se renueva sola, cada mes o cada año según tu plan, hasta que la canceles.
+- **Cómo cancelar.** Abre Google Play y entra en **Pagos y suscripciones → Suscripciones**, elige Entrenador de escalada y cancela. Desinstalar la app no cancela la suscripción. Al cancelar mantienes Premium hasta el final del periodo ya pagado o de la prueba gratuita; después se deja de cobrar y vuelven los anuncios.
+- **Reembolsos.** Los reembolsos se rigen por las reglas de Google Play; se piden a través de Google Play.
+- **Cambios de precio.** Podemos cambiar los precios avisándote antes. El cambio exige tu aceptación en Google Play.
+- **Sin conexión.** La app guarda en tu teléfono el último estado conocido de tu suscripción y, si no puede conectarse a Google Play, lo usa durante unos días. Pasado ese tiempo necesita conectarse para confirmarlo.
+
+Para saber qué datos intervienen en la suscripción, lee el apartado «Suscripción y pagos» de la [política de privacidad](privacidad.md). Estas condiciones no limitan los derechos que la ley te reconoce como consumidor (apartado 10).
 
 ## 9. Tus datos
 
@@ -99,4 +114,4 @@ Correo: **vulcanoedicionessa@gmail.com**
 
 ---
 
-Versión 0.3 · 25 de octubre de 2026
+Versión 0.4 · 25 de octubre de 2026

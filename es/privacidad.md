@@ -33,11 +33,15 @@ La app guarda en la memoria interna de tu teléfono lo que tú mismo introduces 
 - **Tus bloques de entrenamiento**: mesociclo, semanas, objetivo, capacidad prioritaria, variable que sube, respuestas de la revisión y decisión de ajuste.
 - **Tus resultados de tests**: qué test, en qué momento, fecha, configuración que usaste, valor y unidad.
 - **Tus molestias y lesiones**: fecha, zona, qué pasó, días sin cargar, si consultaste a un profesional, qué criterios de consulta se cumplieron y cómo volviste.
-- **Tus ajustes**: recordatorios (hora y si están activados), la paleta de colores, las unidades, la cuenta de preparación y el sonido de los relojes, cómo te avisa «Toca medirte», tu decisión sobre el consentimiento de anuncios, el estado de tus derechos de uso (por ejemplo, una futura suscripción sin anuncios) y la fecha de tu última copia de seguridad.
+- **Tus ajustes**: recordatorios (hora y si están activados), la paleta de colores, las unidades, la cuenta de preparación y el sonido de los relojes, cómo te avisa «Toca medirte», tu decisión sobre el consentimiento de anuncios, el estado de tu suscripción (si está activa, su plan y la fecha estimada en que vence) y la fecha de tu última copia de seguridad.
 
 Estos datos se usan únicamente para que la app funcione: mostrarte qué toca hoy, calcular la carga y la monotonía de la semana, recordarte los retests y darte los avisos del entrenador. Ningún dato de esta lista sale de tu dispositivo por acción de la app, salvo cuando tú mismo exportas una copia (apartado 6).
 
 Algunos de estos datos —tus molestias y lesiones, tu peso y composición corporal, tus medidas, tus horas de sueño y tu fecha de nacimiento— están relacionados con tu salud y la ley los considera datos sensibles. Por eso la app no te obliga a registrarlos, los guarda solo en tu dispositivo y los usa únicamente para mostrarte tu propio avance. Al introducirlos tú, consientes que la app los guarde en tu dispositivo con ese fin; puedes borrarlos cuando quieras (apartado 7).
+
+### Suscripción y pagos
+
+La app ofrece una suscripción de pago llamada **Premium** (ver los [términos](terminos.md), apartado 8). El pago lo procesa **Google Play**: la app no ve ni guarda tus datos de pago (tarjeta, medio de pago, dirección de facturación). Google puede tratar los datos de la compra según su propia política de privacidad (<https://policies.google.com/privacy>). De la compra, la app solo guarda en tu teléfono el **estado de tu suscripción**: si está activa o en prueba gratis, el plan que elegiste (mensual o anual) y la fecha estimada en que vence. Ese estado se guarda solo en tu teléfono y no se envía a ningún servidor de Alma del Sur Ediciones.
 
 ## 4. Qué no hace la app
 
@@ -53,7 +57,7 @@ Tindeq es un producto de un tercero y su fabricante no tiene relación con esta 
 
 ## 5. Publicidad: qué recoge Google AdMob
 
-La app se financia con anuncios servidos por **Google AdMob**, un servicio de Google. Para mostrar y medir esos anuncios, Google puede recoger, a través del código publicitario integrado en la app, datos como:
+La app se financia con anuncios servidos por **Google AdMob**, un servicio de Google, y con la suscripción opcional Premium, que los quita. Para mostrar y medir esos anuncios, Google puede recoger, a través del código publicitario integrado en la app, datos como:
 
 - el **identificador de publicidad** de tu dispositivo Android;
 - **datos de uso de los anuncios** (qué anuncios se cargaron, se vieron o se tocaron, y datos técnicos del dispositivo y de la app necesarios para servirlos);
@@ -70,7 +74,11 @@ Alma del Sur Ediciones no recibe esos datos ni puede vincularlos con tus datos d
 
 La app solicita a Google anuncios con una clasificación de contenido apta, como máximo, para adolescentes.
 
-Los anuncios aparecen como un banner en algunas pantallas (Inicio, Semana, Bloque, Tests y Guía) y, como máximo una vez al día, como un anuncio a pantalla completa al cerrar una sesión o un resumen. La app no muestra anuncios en la pantalla de Hoy mientras corre el temporizador, ni en los relojes, ni en el asistente inicial, ni en estas pantallas legales.
+Los anuncios aparecen como un banner en algunas pantallas (Inicio, Semana, Bloque, Tests, Guía, Útiles, Calendario, Medidas, Perfil físico y cada test, incluido el del dinamómetro) y, como anuncio a pantalla completa, **hasta 3 al día, con al menos 5 minutos entre uno y otro**, al cerrar una sesión, terminar de registrar un test, entrar al Calendario, abrir el plan completo o ver el resumen semanal. La app no muestra anuncios en la pantalla de Hoy mientras corre el temporizador, ni mientras corre un reloj, ni al abrir la app, ni en el asistente inicial, ni en estas pantallas legales.
+
+**Ventana de oferta.** Una vez al día, en Inicio, la app puede mostrarte una ventana propia con la oferta de suscripción. Es una ventana de la propia app, no un anuncio de terceros: no usa Google AdMob ni recoge datos publicitarios.
+
+**Con Premium** no ves anuncios ni la ventana de oferta.
 
 ## 6. Copias de seguridad
 
@@ -124,4 +132,4 @@ Correo: **vulcanoedicionessa@gmail.com**
 
 ---
 
-Versión 0.3 · 25 de octubre de 2026
+Versión 0.4 · 25 de octubre de 2026

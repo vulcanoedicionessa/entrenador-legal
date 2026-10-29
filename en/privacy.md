@@ -33,11 +33,15 @@ The app stores in your phone's internal memory what you enter yourself and what 
 - **Your training blocks**: mesocycle, weeks, objective, priority quality, the variable you raise, the answers to the review and the adjustment decision.
 - **Your test results**: which test, at what point, date, the set-up you used, value and unit.
 - **Your niggles and injuries**: date, area, what happened, days off load, whether you consulted a professional, which referral criteria were met and how you returned.
-- **Your settings**: reminders (time and whether they are on), the colour palette, units, the countdown and sound of the clocks, how "Time to measure" reminds you, your decision on advertising consent, the state of your usage rights (for example, a future ad-free subscription) and the date of your last backup.
+- **Your settings**: reminders (time and whether they are on), the colour palette, units, the countdown and sound of the clocks, how "Time to measure" reminds you, your decision on advertising consent, the state of your subscription (whether it is active, its plan and the estimated date it expires) and the date of your last backup.
 
 This data is used solely so that the app works: to show you what is on today, to calculate the week's load and monotony, to remind you of retests and to give you the coach's messages. No data on this list leaves your device through any action of the app, except when you yourself export a copy (section 6).
 
 Some of this data — your niggles and injuries, your weight and body composition, your measurements, your hours of sleep and your date of birth — is related to your health and the law treats it as sensitive data. For that reason the app does not make you record it, stores it only on your device and uses it solely to show you your own progress. By entering it yourself, you consent to the app storing it on your device for that purpose; you can delete it whenever you like (section 7).
+
+### Subscription and payments
+
+The app offers a paid subscription called **Premium** (see the [terms](terms.md), section 8). **Google Play** processes the payment: the app does not see or store your payment details (card, payment method, billing address). Google may process the purchase data under its own privacy policy (<https://policies.google.com/privacy>). From the purchase, the app stores on your phone only the **state of your subscription**: whether it is active or in a free trial, the plan you chose (monthly or annual) and the estimated date it expires. That state is stored only on your phone and is not sent to any server belonging to Alma del Sur Ediciones.
 
 ## 4. What the app does not do
 
@@ -53,7 +57,7 @@ Tindeq is a third-party product and its manufacturer has no connection with this
 
 ## 5. Advertising: what Google AdMob collects
 
-The app is funded by adverts served by **Google AdMob**, a Google service. To show and measure those adverts, Google may collect, through the advertising code built into the app, data such as:
+The app is funded by adverts served by **Google AdMob**, a Google service, and by the optional Premium subscription, which removes them. To show and measure those adverts, Google may collect, through the advertising code built into the app, data such as:
 
 - the **advertising identifier** of your Android device;
 - **advert usage data** (which adverts were loaded, viewed or tapped, and the technical data about the device and the app needed to serve them);
@@ -70,7 +74,11 @@ Alma del Sur Ediciones does not receive that data and cannot link it to your tra
 
 The app asks Google for adverts with a content rating suitable, at most, for teenagers.
 
-Adverts appear as a banner on some screens (Home, Week, Block, Tests and Guide) and, at most once a day, as a full-screen advert when you close a session or a summary. The app does not show adverts on the Today screen while the timer is running, on the clocks, in the initial set-up assistant or on these legal screens.
+Adverts appear as a banner on some screens (Home, Week, Block, Tests, Guide, Tools, Calendar, Measurements, Physical profile and each test, including the dynamometer one) and, as a full-screen advert, **up to 3 a day, with at least 5 minutes between one and the next**, when you close a session, finish recording a test, enter the Calendar, open the full plan or view the weekly summary. The app does not show adverts on the Today screen while the timer is running, while a clock is running, when you open the app, in the initial set-up assistant or on these legal screens.
+
+**Offer window.** Once a day, on Home, the app may show you a window of its own with the subscription offer. It is a window of the app itself, not a third-party advert: it does not use Google AdMob and does not collect advertising data.
+
+**With Premium** you see neither adverts nor the offer window.
 
 ## 6. Backups
 
@@ -124,4 +132,4 @@ Email: **vulcanoedicionessa@gmail.com**
 
 ---
 
-Version 0.3 · 25 October 2026
+Version 0.4 · 25 October 2026

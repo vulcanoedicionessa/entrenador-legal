@@ -58,11 +58,26 @@ Third-party trade marks and names that appear in the app (for example Google, An
 
 The app includes open-source components and the Source Sans 3 typeface (SIL Open Font License 1.1), which are governed by their own licences; you can find them in the "Licences" document.
 
-## 8. Advertising and future subscription
+## 8. Advertising and Premium subscription
 
-The current version of the app is free and is funded by **adverts** served by Google AdMob. Adverts appear only on some screens and never during a session with the timer running, in the initial set-up assistant or on the legal screens. How your advertising consent is managed is explained in the privacy policy.
+### Adverts
 
-Alma del Sur Ediciones may in future offer a **paid subscription** that removes the adverts or offers additional features. When it exists, the terms of payment, renewal and cancellation will be added to this document before you can take it out, and you will be asked to accept them expressly. Until it exists, no section of these terms obliges you to pay anything.
+The app can be used for free and is funded by **adverts** served by Google AdMob. Adverts appear only on some screens and never during a session with the timer running, while a clock is running, in the initial set-up assistant or on the legal screens. How your advertising consent is managed and on which screens adverts appear is explained in the privacy policy.
+
+### Premium subscription
+
+Alma del Sur Ediciones offers a **paid subscription** called **Premium**. These are its conditions:
+
+- **What it includes.** Premium removes the adverts (and the subscription offer window) and gives access to **Guided training** and the **personalised plan**. Tests, Measurements, Tools, the Calendar and the Guide remain free, with adverts.
+- **Plans and prices.** There is a **monthly** plan and an **annual** plan. The price of each plan, in your currency and with any taxes that apply, is the one Google Play shows before you confirm the purchase.
+- **Seven days free.** If you have not used this subscription's free trial before, your subscription starts with 7 days free. If you do not cancel before they end, Google Play starts charging you for the plan you chose.
+- **Billing and automatic renewal.** Google Play handles the payment with the payment method on your Google account. The subscription renews by itself, every month or every year depending on your plan, until you cancel it.
+- **How to cancel.** Open Google Play and go to **Payments & subscriptions → Subscriptions**, choose Climbing Coach and cancel. Uninstalling the app does not cancel the subscription. When you cancel you keep Premium until the end of the period already paid for or of the free trial; after that the charges stop and the adverts come back.
+- **Refunds.** Refunds are governed by Google Play's rules; you request them through Google Play.
+- **Price changes.** We may change the prices by giving you notice beforehand. The change requires your acceptance in Google Play.
+- **Offline.** The app stores on your phone the last known state of your subscription and, if it cannot connect to Google Play, uses it for a few days. After that it needs to connect to confirm it.
+
+To find out what data is involved in the subscription, read the "Subscription and payments" section of the [privacy policy](privacy.md). These conditions do not limit the rights the law grants you as a consumer (section 10).
 
 ## 9. Your data
 
@@ -99,4 +114,4 @@ Email: **vulcanoedicionessa@gmail.com**
 
 ---
 
-Version 0.3 · 25 October 2026
+Version 0.4 · 25 October 2026
