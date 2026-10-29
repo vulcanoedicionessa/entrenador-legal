@@ -1,30 +1,28 @@
 # Terms and Conditions · Climbing Coach
 
-> PENDING LEGAL REVIEW — draft not yet approved.
-
 These terms govern the use of the "Climbing Coach" application (hereafter, "the app"). By installing and using it you accept these terms, the [privacy policy](privacy.md) and the [non-clinical notice](non-clinical-notice.md). If you do not agree with any of them, do not use the app.
 
 ## 1. Who offers the app
 
-The app is published by **Alma del Sur Ediciones**, publisher of the collection of climbing training books of which the app forms part.
+The app is published by **BClabs**, developer and owner of the app on Google Play. The app complements the collection of climbing training books by Alma del Sur Ediciones.
 
 Contact: **vulcanoedicionessa@gmail.com**.
 
 ## 2. Minimum age
 
-To use the app you must be **16 or over**. If you are under 16, do not install or use it.
+To use the app you must be **18 or over**. If you are under 18, do not install or use it.
 
 ## 3. What the app is
 
 The app is a tool for recording and organising your climbing training: it proposes sessions from the book's programmes, helps you record what you do, calculates your week's load and monotony, stores your test results, your weight, your body measurements and your strength tests, and shows you messages based on fixed rules taken from the book. All the training content comes from the book *Climb Stronger* (Book 1, "Foundations") and from the training journal of the same collection.
 
-The app **is not a personal trainer, a medical service or a healthcare professional**, and it does not replace any of them.
+The app is only an indicative **guide**: it **is not a personal trainer, a medical service or a healthcare professional**, and it does not replace any of them.
 
-The app can optionally connect to a Tindeq dynamometer. Tindeq is a third-party product with no connection to Alma del Sur Ediciones, which is not responsible for how it works. The values for strength, weight and measurements that the app shows are indicative, not a clinical measurement.
+The app can optionally connect to a Tindeq dynamometer. Tindeq is a third-party product with no connection to BClabs, which is not responsible for how it works. The values for strength, weight and measurements that the app shows are indicative, not a clinical measurement.
 
 ## 4. Licence to use
 
-Alma del Sur Ediciones grants you a **personal, non-exclusive, non-transferable and revocable** licence to install and use the app on Android devices you own or control, for **personal and non-commercial** purposes.
+BClabs grants you a **personal, non-exclusive, non-transferable and revocable** licence to install and use the app on Android devices you own or control, for **personal and non-commercial** purposes.
 
 In particular, you may not:
 
@@ -50,7 +48,7 @@ Climbing training produces results that depend on many factors the app does not 
 
 ## 7. Intellectual property
 
-The app, its design, its code and all its training content (programmes, exercise catalogue, tests, Guide texts, coach messages, illustrations and icons) are the property of **Alma del Sur Ediciones** or are used under licence from their owners, and are protected by the applicable intellectual property legislation. The training content is based on the book *Climb Stronger* (Book 1, "Foundations") and on the collection's training journal, also by Alma del Sur Ediciones.
+The app, its design, its code and all its training content (programmes, exercise catalogue, tests, Guide texts, coach messages, illustrations and icons) are the property of **BClabs** or are used under licence from their owners, and are protected by the applicable intellectual property legislation. The training content is based on the book *Climb Stronger* (Book 1, "Foundations") and on the collection's training journal, both published by Alma del Sur Ediciones.
 
 The data you enter in the app (your profile, your sessions, your notes, your results) is yours. The app acquires no rights over it and, as explained in the privacy policy, it does not leave your device.
 
@@ -66,7 +64,7 @@ The app can be used for free and is funded by **adverts** served by Google AdMob
 
 ### Premium subscription
 
-Alma del Sur Ediciones offers a **paid subscription** called **Premium**. These are its conditions:
+BClabs offers a **paid subscription** called **Premium**. These are its conditions:
 
 - **What it includes.** Premium removes the adverts (and the subscription offer window) and gives access to **Guided training** and the **personalised plan**. Tests, Measurements, Tools, the Calendar and the Guide remain free, with adverts.
 - **Plans and prices.** There is a **monthly** plan and an **annual** plan. The price of each plan, in your currency and with any taxes that apply, is the one Google Play shows before you confirm the purchase.
@@ -89,15 +87,15 @@ Climbing and training for climbing are activities with a **risk of injury**. By 
 
 To the extent permitted by the applicable Chilean legislation:
 
-- Alma del Sur Ediciones is not liable for injuries, damage to health, material damage or losses arising from use of the app, from following its training proposals or from not heeding its messages;
+- **BClabs is not responsible** for injuries, damage to health, material damage or losses arising from use of the app, from following its training proposals or from not heeding its messages;
 - the app is provided "as is" and "as available", with no guarantee that it is free of errors or that it works without interruption on every device;
-- Alma del Sur Ediciones is not liable for loss of data caused by device failure, by uninstalling, by a deletion you order or by misuse of backup files; export a copy regularly.
+- BClabs is not liable for loss of data caused by device failure, by uninstalling, by a deletion you order or by misuse of backup files; export a copy regularly.
 
 Nothing in these terms limits the rights the law grants you as a consumer which cannot be waived or limited by contract.
 
 ## 11. Suspension and end of the service
 
-Alma del Sur Ediciones may update, modify, suspend or withdraw the app, in whole or in part, at any time. If the app ceases to be distributed, your data will remain on your device for as long as you keep it installed and you will be able to export it as a file. Alma del Sur Ediciones may also terminate your licence if you breach these terms.
+BClabs may update, modify, suspend or withdraw the app, in whole or in part, at any time. If the app ceases to be distributed, your data will remain on your device for as long as you keep it installed and you will be able to export it as a file. BClabs may also terminate your licence if you breach these terms.
 
 ## 12. Changes to these terms
 
@@ -109,9 +107,10 @@ These terms are governed by the **legislation of the Republic of Chile**. For an
 
 ## 14. Contact
 
-Alma del Sur Ediciones
+BClabs
 Email: **vulcanoedicionessa@gmail.com**
+Country: Chile
 
 ---
 
-Version 0.4 · 25 October 2026
+Version 0.6 · 29 October 2026

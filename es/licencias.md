@@ -1,7 +1,5 @@
 # Licencias · Entrenador de escalada
 
-> PENDIENTE DE REVISIÓN LEGAL — borrador no aprobado.
-
 La app usa software y una tipografía de terceros que se distribuyen con sus propias licencias. Aquí están los avisos que esas licencias piden.
 
 ## Tipografía

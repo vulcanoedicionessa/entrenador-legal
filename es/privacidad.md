@@ -1,18 +1,16 @@
 # Política de privacidad · Entrenador de escalada
 
-> PENDIENTE DE REVISIÓN LEGAL — borrador no aprobado.
-
 Esta política explica qué datos maneja la aplicación «Entrenador de escalada» (en adelante, «la app»), dónde se guardan, quién puede verlos y qué puedes hacer con ellos. Está escrita para que la leas entera en unos minutos. Si algo no te queda claro, escribe al contacto del apartado 12.
 
 ## 1. Quién es responsable
 
-El responsable del tratamiento de los datos que describe esta política es **Alma del Sur Ediciones**, editor de la colección de libros de entrenamiento de escalada de la que forma parte la app.
+El responsable del tratamiento de los datos que describe esta política es **BClabs**, desarrollador y titular de la app, que se publica en Google Play con ese nombre de desarrollador. La app complementa la colección de libros de entrenamiento de escalada de Alma del Sur Ediciones.
 
-Contacto: **vulcanoedicionessa@gmail.com**.
+Contacto: **vulcanoedicionessa@gmail.com**. País: Chile.
 
 ## 2. Lo esencial en tres frases
 
-- Todo lo que registras en la app se guarda **solo en tu dispositivo**. Alma del Sur Ediciones no tiene ningún servidor que reciba tus datos y no puede verlos.
+- Todo lo que registras en la app se guarda **solo en tu dispositivo**. BClabs no tiene ningún servidor que reciba tus datos y no puede verlos.
 - La app **no te pide crear una cuenta** ni te identifica de ninguna manera.
 - La app muestra anuncios de **Google AdMob**. Esa red publicitaria sí recoge algunos datos técnicos, que se describen en el apartado 5 y que puedes limitar desde el panel de consentimiento.
 
@@ -41,12 +39,12 @@ Algunos de estos datos —tus molestias y lesiones, tu peso y composición corpo
 
 ### Suscripción y pagos
 
-La app ofrece una suscripción de pago llamada **Premium** (ver los [términos](terminos.md), apartado 8). El pago lo procesa **Google Play**: la app no ve ni guarda tus datos de pago (tarjeta, medio de pago, dirección de facturación). Google puede tratar los datos de la compra según su propia política de privacidad (<https://policies.google.com/privacy>). De la compra, la app solo guarda en tu teléfono el **estado de tu suscripción**: si está activa o en prueba gratis, el plan que elegiste (mensual o anual) y la fecha estimada en que vence. Ese estado se guarda solo en tu teléfono y no se envía a ningún servidor de Alma del Sur Ediciones.
+La app ofrece una suscripción de pago llamada **Premium** (ver los [términos](terminos.md), apartado 8). El pago lo procesa **Google Play**: la app no ve ni guarda tus datos de pago (tarjeta, medio de pago, dirección de facturación). Google puede tratar los datos de la compra según su propia política de privacidad (<https://policies.google.com/privacy>). De la compra, la app solo guarda en tu teléfono el **estado de tu suscripción**: si está activa o en prueba gratis, el plan que elegiste (mensual o anual) y la fecha estimada en que vence. Ese estado se guarda solo en tu teléfono y no se envía a ningún servidor de BClabs.
 
 ## 4. Qué no hace la app
 
 - No crea cuentas ni te pide correo, teléfono ni nombre.
-- No envía tus datos de entrenamiento a ningún servidor de Alma del Sur Ediciones ni de terceros.
+- No envía tus datos de entrenamiento a ningún servidor de BClabs ni de terceros.
 - No usa tu ubicación, tus contactos, tu cámara, tu micrófono ni tus fotos.
 - No usa herramientas de analítica propias ni de terceros para seguir cómo usas la app, más allá de lo que recoge la red publicitaria del apartado 5.
 - No vende, alquila ni cede tus datos.
@@ -63,7 +61,7 @@ La app se financia con anuncios servidos por **Google AdMob**, un servicio de Go
 - **datos de uso de los anuncios** (qué anuncios se cargaron, se vieron o se tocaron, y datos técnicos del dispositivo y de la app necesarios para servirlos);
 - tu **dirección IP aproximada**, que Google puede usar para estimar tu zona geográfica general.
 
-Alma del Sur Ediciones no recibe esos datos ni puede vincularlos con tus datos de entrenamiento, que nunca salen de tu dispositivo. El tratamiento que hace Google se rige por su propia política de privacidad y por su información sobre cómo usa los datos de las apps que integran sus servicios:
+BClabs no recibe esos datos ni puede vincularlos con tus datos de entrenamiento, que nunca salen de tu dispositivo. El tratamiento que hace Google se rige por su propia política de privacidad y por su información sobre cómo usa los datos de las apps que integran sus servicios:
 
 - Política de privacidad de Google: <https://policies.google.com/privacy>
 - Cómo usa Google la información de sitios y apps que utilizan sus servicios: <https://policies.google.com/technologies/partner-sites>
@@ -84,7 +82,7 @@ Los anuncios aparecen como un banner en algunas pantallas (Inicio, Semana, Bloqu
 
 **Copia que tú controlas.** Desde Ajustes puedes exportar todos tus datos a un único archivo y guardarlo donde quieras mediante el selector de archivos de Android. Ese archivo es tuyo: la app no lo envía a ningún sitio. Si lo compartes, lo subes a un servicio en la nube o lo pierdes, la responsabilidad de ese archivo es tuya. Puedes volver a importarlo en la app cuando lo necesites.
 
-**Copia automática de Android.** Si tienes activada la copia de seguridad de Android en tu dispositivo, el propio sistema puede guardar una copia de los datos de la app en la **cuenta de Google asociada a tu dispositivo** (función conocida como Android Auto Backup), junto con las copias de tus demás apps. Esa copia la gestiona Google según sus propias condiciones y Alma del Sur Ediciones no tiene acceso a ella. Puedes desactivar la copia de seguridad de Android en los ajustes del sistema.
+**Copia automática de Android.** Si tienes activada la copia de seguridad de Android en tu dispositivo, el propio sistema puede guardar una copia de los datos de la app en la **cuenta de Google asociada a tu dispositivo** (función conocida como Android Auto Backup), junto con las copias de tus demás apps. Esa copia la gestiona Google según sus propias condiciones y BClabs no tiene acceso a ella. Puedes desactivar la copia de seguridad de Android en los ajustes del sistema.
 
 Ten en cuenta que esa copia y el archivo que exportas incluyen todo lo que has registrado, también tus datos de salud, tu peso y tus medidas. El archivo exportado no está cifrado: guárdalo en un lugar seguro.
 
@@ -99,9 +97,9 @@ Ninguna de las dos opciones borra las copias que tú hayas exportado como archiv
 
 ## 8. Edad mínima
 
-La app está pensada para personas de **16 años o más**. Si tienes menos de 16 años, no la uses ni introduzcas datos en ella. Si eres padre, madre o tutor y crees que un menor de 16 años la está usando, escríbenos al contacto del apartado 12 y te indicaremos cómo eliminar los datos del dispositivo.
+La app está pensada para personas de **18 años o más**. Si tienes menos de 18 años, no la uses ni introduzcas datos en ella. Si eres padre, madre o tutor y crees que un menor de 18 años la está usando, escríbenos al contacto del apartado 12 y te indicaremos cómo eliminar los datos del dispositivo.
 
-La app no verifica la edad: al usarla declaras tener 16 años o más.
+La app no verifica la edad: al usarla declaras tener 18 años o más.
 
 ## 9. Tus derechos
 
@@ -127,9 +125,10 @@ Podemos actualizar esta política cuando cambie la app o la legislación. Cada v
 
 ## 12. Contacto
 
-Alma del Sur Ediciones
+BClabs
 Correo: **vulcanoedicionessa@gmail.com**
+País: Chile
 
 ---
 
-Versión 0.4 · 25 de octubre de 2026
+Versión 0.6 · 29 de octubre de 2026

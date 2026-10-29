@@ -1,6 +1,6 @@
 # Aviso no clínico · Entrenador de escalada
 
-> PENDIENTE DE REVISIÓN LEGAL — borrador no aprobado.
+> **Importante:** esta app es solo una **guía** de entrenamiento orientativa. Escalar y entrenar para escalar tiene riesgo de lesión. **BClabs no se hace responsable de lesiones, daños a la salud ni pérdidas** derivados del uso de la app o de seguir sus propuestas: la decisión de entrenar, con qué carga y en qué estado físico es siempre tuya.
 
 Lee esto antes de empezar. Es corto y te dice qué puede hacer la app por ti y dónde termina su papel.
 
@@ -62,9 +62,9 @@ Aquí no hay protocolo de autotratamiento ni progresión de vuelta por fases. Pa
 
 La app tampoco te da consejos de dieta ni de peso. Si registras tu peso, tu grasa corporal o tus medidas, es solo para que veas tu propia evolución y calcules tu fuerza relativa; no son una meta ni una recomendación.
 
-## 7. Si tienes menos de 18 años
+## 7. Solo para mayores de 18 años
 
-Puedes usar la app a partir de los 16 años. Si tienes menos de 18, fíjate en el criterio 2 del apartado 3: cualquier dolor en la cara dorsal de la articulación media de un dedo es motivo de consulta antes de decidir nada sobre la carga.
+La app está pensada solo para personas de **18 años o más** (ver los términos). Si tienes menos de 18, no la uses y consulta a un profesional sanitario o a tu entrenador antes de entrenar con carga. Los criterios del apartado 3 que mencionan a menores de 18 años se conservan tal como están en el libro.
 
 ## 8. En caso de urgencia
 
@@ -72,8 +72,8 @@ Ante una urgencia médica, acude a los servicios de urgencia de tu zona. La app 
 
 ## 9. Contacto
 
-Si tienes dudas sobre este aviso, escribe a Alma del Sur Ediciones: **vulcanoedicionessa@gmail.com**. No respondemos consultas médicas.
+Si tienes dudas sobre este aviso, escribe a BClabs: **vulcanoedicionessa@gmail.com**. No respondemos consultas médicas.
 
 ---
 
-Versión 0.2 · 9 de octubre de 2026
+Versión 0.4 · 29 de octubre de 2026

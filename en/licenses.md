@@ -1,7 +1,5 @@
 # Licences · Climbing Coach
 
-> PENDING LEGAL REVIEW — draft not yet approved.
-
 The app uses third-party software and a typeface that are distributed under their own licences. Here are the notices those licences ask for.
 
 ## Typeface

@@ -1,18 +1,16 @@
 # Privacy Policy · Climbing Coach
 
-> PENDING LEGAL REVIEW — draft not yet approved.
-
 This policy explains what data the "Climbing Coach" application (hereafter, "the app") handles, where it is stored, who can see it and what you can do with it. It is written so that you can read it in full in a few minutes. If anything is unclear, write to the contact in section 12.
 
 ## 1. Who is responsible
 
-The party responsible for the processing of the data described in this policy is **Alma del Sur Ediciones**, publisher of the collection of climbing training books of which the app forms part.
+The party responsible for the processing of the data described in this policy is **BClabs**, developer and owner of the app, which is published on Google Play under that developer name. The app complements the collection of climbing training books by Alma del Sur Ediciones.
 
 Contact: **vulcanoedicionessa@gmail.com**.
 
 ## 2. The essentials in three sentences
 
-- Everything you record in the app is stored **only on your device**. Alma del Sur Ediciones has no server that receives your data and cannot see it.
+- Everything you record in the app is stored **only on your device**. BClabs has no server that receives your data and cannot see it.
 - The app **does not ask you to create an account** and does not identify you in any way.
 - The app shows adverts from **Google AdMob**. That advertising network does collect some technical data, which is described in section 5 and which you can limit from the consent panel.
 
@@ -41,12 +39,12 @@ Some of this data — your niggles and injuries, your weight and body compositio
 
 ### Subscription and payments
 
-The app offers a paid subscription called **Premium** (see the [terms](terms.md), section 8). **Google Play** processes the payment: the app does not see or store your payment details (card, payment method, billing address). Google may process the purchase data under its own privacy policy (<https://policies.google.com/privacy>). From the purchase, the app stores on your phone only the **state of your subscription**: whether it is active or in a free trial, the plan you chose (monthly or annual) and the estimated date it expires. That state is stored only on your phone and is not sent to any server belonging to Alma del Sur Ediciones.
+The app offers a paid subscription called **Premium** (see the [terms](terms.md), section 8). **Google Play** processes the payment: the app does not see or store your payment details (card, payment method, billing address). Google may process the purchase data under its own privacy policy (<https://policies.google.com/privacy>). From the purchase, the app stores on your phone only the **state of your subscription**: whether it is active or in a free trial, the plan you chose (monthly or annual) and the estimated date it expires. That state is stored only on your phone and is not sent to any server belonging to BClabs.
 
 ## 4. What the app does not do
 
 - It does not create accounts and does not ask for your email, phone number or name.
-- It does not send your training data to any server belonging to Alma del Sur Ediciones or to third parties.
+- It does not send your training data to any server belonging to BClabs or to third parties.
 - It does not use your location, your contacts, your camera, your microphone or your photos.
 - It does not use its own or third-party analytics tools to track how you use the app, beyond what the advertising network in section 5 collects.
 - It does not sell, rent or pass on your data.
@@ -63,7 +61,7 @@ The app is funded by adverts served by **Google AdMob**, a Google service, and b
 - **advert usage data** (which adverts were loaded, viewed or tapped, and the technical data about the device and the app needed to serve them);
 - your **approximate IP address**, which Google may use to estimate your general geographic area.
 
-Alma del Sur Ediciones does not receive that data and cannot link it to your training data, which never leaves your device. Google's processing is governed by its own privacy policy and by its information on how it uses data from apps that integrate its services:
+BClabs does not receive that data and cannot link it to your training data, which never leaves your device. Google's processing is governed by its own privacy policy and by its information on how it uses data from apps that integrate its services:
 
 - Google Privacy Policy: <https://policies.google.com/privacy>
 - How Google uses information from sites or apps that use its services: <https://policies.google.com/technologies/partner-sites>
@@ -84,7 +82,7 @@ Adverts appear as a banner on some screens (Home, Week, Block, Tests, Guide, Too
 
 **A copy you control.** From Settings you can export all your data to a single file and save it wherever you like using the Android file picker. That file is yours: the app does not send it anywhere. If you share it, upload it to a cloud service or lose it, responsibility for that file is yours. You can import it back into the app whenever you need to.
 
-**Android's automatic backup.** If you have Android backup turned on for your device, the system itself may store a copy of the app's data in the **Google account linked to your device** (a feature known as Android Auto Backup), alongside the backups of your other apps. That copy is managed by Google under its own terms and Alma del Sur Ediciones has no access to it. You can turn off Android backup in the system settings.
+**Android's automatic backup.** If you have Android backup turned on for your device, the system itself may store a copy of the app's data in the **Google account linked to your device** (a feature known as Android Auto Backup), alongside the backups of your other apps. That copy is managed by Google under its own terms and BClabs has no access to it. You can turn off Android backup in the system settings.
 
 Keep in mind that this copy and the file you export include everything you have recorded, also your health data, your weight and your measurements. The exported file is not encrypted: keep it somewhere safe.
 
@@ -99,9 +97,9 @@ Neither option deletes the copies you have exported as a file, nor, on its own, 
 
 ## 8. Minimum age
 
-The app is intended for people aged **16 or over**. If you are under 16, do not use it and do not enter data in it. If you are a parent or guardian and believe a child under 16 is using it, write to the contact in section 12 and we will tell you how to remove the data from the device.
+The app is intended for people aged **18 or over**. If you are under 18, do not use it and do not enter data in it. If you are a parent or guardian and believe a child under 18 is using it, write to the contact in section 12 and we will tell you how to remove the data from the device.
 
-The app does not verify age: by using it you declare that you are 16 or older.
+The app does not verify age: by using it you declare that you are 18 or older.
 
 ## 9. Your rights
 
@@ -127,9 +125,10 @@ We may update this policy when the app or the legislation changes. Each version 
 
 ## 12. Contact
 
-Alma del Sur Ediciones
+BClabs
 Email: **vulcanoedicionessa@gmail.com**
+Country: Chile
 
 ---
 
-Version 0.4 · 25 October 2026
+Version 0.6 · 29 October 2026

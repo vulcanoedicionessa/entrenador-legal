@@ -1,6 +1,6 @@
 # Non-Clinical Notice · Climbing Coach
 
-> PENDING LEGAL REVIEW — draft not yet approved.
+> **Important:** this app is only an indicative training **guide**. Climbing and training for climbing carry a risk of injury. **BClabs is not responsible for injuries, damage to health or losses** arising from use of the app or from following its proposals: the decision to train, with what load and in what physical condition is always yours.
 
 Read this before you start. It is short and it tells you what the app can do for you and where its role ends.
 
@@ -62,9 +62,9 @@ There is no self-treatment protocol here and no phased return progression. For p
 
 The app also gives you no advice on diet or weight. If you record your weight, your body fat or your measurements, it is only so that you can see your own progress and work out your relative strength; they are not a goal or a recommendation.
 
-## 7. If you are under 18
+## 7. Only for people aged 18 or over
 
-You can use the app from the age of 16. If you are under 18, pay attention to criterion 2 in section 3: any pain on the dorsal side of the middle joint of a finger is grounds for consulting before anything is decided about the load.
+The app is intended only for people aged **18 or over** (see the terms). If you are under 18, do not use it and consult a healthcare professional or your coach before training with load. The criteria in section 3 that mention people under 18 are kept as they appear in the book.
 
 ## 8. In an emergency
 
@@ -72,8 +72,8 @@ In a medical emergency, go to the emergency services in your area. The app is no
 
 ## 9. Contact
 
-If you have questions about this notice, write to Alma del Sur Ediciones: **vulcanoedicionessa@gmail.com**. We do not answer medical queries.
+If you have questions about this notice, write to BClabs: **vulcanoedicionessa@gmail.com**. We do not answer medical queries.
 
 ---
 
-Version 0.2 · 9 October 2026
+Version 0.4 · 29 October 2026

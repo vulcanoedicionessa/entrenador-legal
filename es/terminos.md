@@ -1,30 +1,28 @@
 # Términos y condiciones · Entrenador de escalada
 
-> PENDIENTE DE REVISIÓN LEGAL — borrador no aprobado.
-
 Estos términos regulan el uso de la aplicación «Entrenador de escalada» (en adelante, «la app»). Al instalarla y usarla aceptas estos términos, la [política de privacidad](privacidad.md) y el [aviso no clínico](aviso-no-clinico.md). Si no estás de acuerdo con alguno de ellos, no uses la app.
 
 ## 1. Quién ofrece la app
 
-La app la publica **Alma del Sur Ediciones**, editor de la colección de libros de entrenamiento de escalada de la que la app forma parte.
+La app la publica **BClabs**, desarrollador y titular de la app en Google Play. La app complementa la colección de libros de entrenamiento de escalada de Alma del Sur Ediciones.
 
 Contacto: **vulcanoedicionessa@gmail.com**.
 
 ## 2. Edad mínima
 
-Para usar la app debes tener **16 años o más**. Si tienes menos de 16 años, no la instales ni la uses.
+Para usar la app debes tener **18 años o más**. Si tienes menos de 18 años, no la instales ni la uses.
 
 ## 3. Qué es la app
 
 La app es una herramienta de registro y organización del entrenamiento de escalada: te propone sesiones a partir de los programas del libro, te ayuda a registrar lo que haces, calcula la carga y la monotonía de tu semana, guarda tus resultados de tests, tu peso, tus medidas corporales y tus pruebas de fuerza, y te muestra avisos basados en reglas fijas tomadas del libro. Todo el contenido de entrenamiento proviene del libro *Escalar más fuerte* (Libro 1, «Fundamentos») y del diario de entrenamiento de la misma colección.
 
-La app **no es un entrenador personal, ni un servicio médico, ni un profesional sanitario**, y no sustituye a ninguno de ellos.
+La app es solo una **guía** orientativa: **no es un entrenador personal, ni un servicio médico, ni un profesional sanitario**, y no sustituye a ninguno de ellos.
 
-La app puede conectarse, de forma opcional, a un dinamómetro Tindeq. Tindeq es un producto de un tercero sin relación con Alma del Sur Ediciones, que no responde de su funcionamiento. Los valores de fuerza, peso y medidas que muestra la app son orientativos, no una medición clínica.
+La app puede conectarse, de forma opcional, a un dinamómetro Tindeq. Tindeq es un producto de un tercero sin relación con BClabs, que no responde de su funcionamiento. Los valores de fuerza, peso y medidas que muestra la app son orientativos, no una medición clínica.
 
 ## 4. Licencia de uso
 
-Alma del Sur Ediciones te concede una licencia **personal, no exclusiva, intransferible y revocable** para instalar y usar la app en dispositivos Android de tu propiedad o bajo tu control, con fines **personales y no comerciales**.
+BClabs te concede una licencia **personal, no exclusiva, intransferible y revocable** para instalar y usar la app en dispositivos Android de tu propiedad o bajo tu control, con fines **personales y no comerciales**.
 
 En particular, no puedes:
 
@@ -50,7 +48,7 @@ El entrenamiento de escalada tiene resultados que dependen de muchos factores qu
 
 ## 7. Propiedad intelectual
 
-La app, su diseño, su código y todo su contenido de entrenamiento (programas, catálogo de ejercicios, tests, textos de la Guía, mensajes del entrenador, ilustraciones e iconos) son propiedad de **Alma del Sur Ediciones** o se usan con licencia de sus titulares, y están protegidos por la legislación de propiedad intelectual aplicable. El contenido de entrenamiento está basado en el libro *Escalar más fuerte* (Libro 1, «Fundamentos») y en el diario de entrenamiento de la colección, también de Alma del Sur Ediciones.
+La app, su diseño, su código y todo su contenido de entrenamiento (programas, catálogo de ejercicios, tests, textos de la Guía, mensajes del entrenador, ilustraciones e iconos) son propiedad de **BClabs** o se usan con licencia de sus titulares, y están protegidos por la legislación de propiedad intelectual aplicable. El contenido de entrenamiento está basado en el libro *Escalar más fuerte* (Libro 1, «Fundamentos») y en el diario de entrenamiento de la colección, ambos publicados por Alma del Sur Ediciones.
 
 Los datos que tú introduces en la app (tu perfil, tus sesiones, tus notas, tus resultados) son tuyos. La app no adquiere ningún derecho sobre ellos y, como se explica en la política de privacidad, no salen de tu dispositivo.
 
@@ -66,7 +64,7 @@ La app se puede usar gratis y se financia con **anuncios** servidos por Google A
 
 ### Suscripción Premium
 
-Alma del Sur Ediciones ofrece una **suscripción de pago** llamada **Premium**. Estas son sus condiciones:
+BClabs ofrece una **suscripción de pago** llamada **Premium**. Estas son sus condiciones:
 
 - **Qué incluye.** Premium quita los anuncios (y la ventana de oferta de la suscripción) y da acceso al **Entrenamiento guiado** y al **plan personalizado**. Siguen siendo gratis, con anuncios, los Tests, las Medidas, los Útiles, el Calendario y la Guía.
 - **Planes y precios.** Hay un plan **mensual** y un plan **anual**. El precio de cada plan, en tu moneda y con los impuestos que correspondan, es el que muestra Google Play antes de que confirmes la compra.
@@ -89,15 +87,15 @@ Escalar y entrenar para escalar son actividades con **riesgo de lesión**. Al us
 
 En la medida en que la legislación chilena aplicable lo permita:
 
-- Alma del Sur Ediciones no responde por lesiones, daños a la salud, daños materiales ni pérdidas derivados del uso de la app, de seguir sus propuestas de entrenamiento o de no atender sus avisos;
+- **BClabs no se hace responsable** de lesiones, daños a la salud, daños materiales ni pérdidas derivados del uso de la app, de seguir sus propuestas de entrenamiento o de no atender sus avisos;
 - la app se ofrece «tal cual» y «según disponibilidad», sin garantía de que esté libre de errores o de que funcione sin interrupciones en todos los dispositivos;
-- Alma del Sur Ediciones no responde por la pérdida de datos causada por fallos del dispositivo, por la desinstalación, por el borrado que tú ordenes o por el mal uso de los archivos de copia de seguridad; exporta una copia con regularidad.
+- BClabs no responde por la pérdida de datos causada por fallos del dispositivo, por la desinstalación, por el borrado que tú ordenes o por el mal uso de los archivos de copia de seguridad; exporta una copia con regularidad.
 
 Nada en estos términos limita los derechos que la ley te reconoce como consumidor y que no puedan renunciarse ni limitarse por contrato.
 
 ## 11. Suspensión y fin del servicio
 
-Alma del Sur Ediciones puede actualizar, modificar, suspender o retirar la app, en su totalidad o en parte, en cualquier momento. Si la app deja de distribuirse, tus datos seguirán en tu dispositivo mientras la conserves instalada y podrás exportarlos como archivo. Alma del Sur Ediciones también puede dar por terminada tu licencia si incumples estos términos.
+BClabs puede actualizar, modificar, suspender o retirar la app, en su totalidad o en parte, en cualquier momento. Si la app deja de distribuirse, tus datos seguirán en tu dispositivo mientras la conserves instalada y podrás exportarlos como archivo. BClabs también puede dar por terminada tu licencia si incumples estos términos.
 
 ## 12. Cambios en estos términos
 
@@ -109,9 +107,10 @@ Estos términos se rigen por la **legislación de la República de Chile**. Para
 
 ## 14. Contacto
 
-Alma del Sur Ediciones
+BClabs
 Correo: **vulcanoedicionessa@gmail.com**
+País: Chile
 
 ---
 
-Versión 0.4 · 25 de octubre de 2026
+Versión 0.6 · 29 de octubre de 2026
